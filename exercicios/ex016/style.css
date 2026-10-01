@@ -1,0 +1,1128 @@
+<!DOCTYPE html>
+<html lang="pt-br">
+
+<head>
+    
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <meta name="description" content="">
+    <meta name="keywords" content="">
+
+    
+    <title>EF7 - Complexo Esportivo</title>
+
+
+    <link rel="icon" type="image/x-icon" href="assets/img/logo/logo-estrela-ef7.png">
+
+    
+    <link rel="stylesheet" href="assets/css/bootstrap.min.css">
+    <link rel="stylesheet" href="assets/css/all-fontawesome.min.css">
+    <link rel="stylesheet" href="assets/css/animate.min.css">
+    <link rel="stylesheet" href="assets/css/magnific-popup.min.css">
+    <link rel="stylesheet" href="assets/css/owl.carousel.min.css">
+    <link rel="stylesheet" href="assets/css/style.css">
+
+</head>
+
+<body class="home-2">
+
+    <!-- preloader -->
+    <div class="preloader">
+        <div class="loader-book">
+            <div class="loader-book-page"></div>
+            <div class="loader-book-page"></div>
+            <div class="loader-book-page"></div>
+        </div>
+    </div>
+    <!-- preloader end -->
+
+
+    <!-- header area -->
+    <header class="header">
+        <!-- header top -->
+        <div class="header-top">
+            <div class="container ps-0">
+                <div class="header-top-wrap">
+                    <div class="header-top-left">
+                        <div class="header-top-social">
+                            <span>Para Mais: </span>
+                            <a href="https://www.facebook.com/complexoesportivoef7" target="_blank"><i class="fab fa-facebook-f"></i></a>
+                            <a href="https://www.instagram.com/complexoesportivo_ef7/" target="_blank"><i class="fab fa-instagram"></i></a>
+                            <a href="https://wa.me/5516991737182" target="_blank"><i class="fab fa-whatsapp"></i></a>
+                        </div>
+                    </div>
+                    <div class="header-top-right">
+                        <div class="header-top-contact">
+                            <ul>
+                                <li>
+                                    <a href="https://maps.google.com/?q=R. Edemilson André Moré, 270 - Jardim Amália, Sertãozinho - SP, 14161-251" target="_blank"><i class="far fa-location-dot"></i>R. Edemilson André Moré, 270 - Sertãozinho - SP</a>
+                                </li>
+                                <li>
+                                    <a href="mailto:ef7@ef7.com.br"><i class="far fa-envelopes"></i>ef7@ef7.com.br</a>
+                                </li>
+                                <li>
+                                    <a href="tel: (16) 3947-3534"><i class="far fa-phone-volume"></i> (16) 3947-3534</a>
+                                </li>
+                            </ul>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+        
+        <div class="main-navigation">
+            <nav class="navbar navbar-expand-lg">
+                <div class="container position-relative">
+                    <a class="navbar-brand" href="index.html">
+                      <style>
+                        .navbar-brand img {
+                            width: 210px;
+                        } 
+                        </style>
+                         <img src="assets/img/logo/ef7-logo.png" alt="EF7 Logo">
+                    </a>
+                    <div class="mobile-menu-right">
+                        <div class="search-btn">
+                            <button type="button" class="nav-right-link search-box-outer"><i
+                                    class="far fa-search"></i></button>
+                        </div>
+                        <button class="navbar-toggler" type="button" data-bs-toggle="collapse"
+                            data-bs-target="#main_nav" aria-expanded="false" aria-label="Toggle navigation">
+                            <span class="navbar-toggler-mobile-icon"><i class="far fa-bars"></i></span>
+                        </button>
+                    </div>
+                    <div class="collapse navbar-collapse" id="main_nav">
+                        <ul class="navbar-nav">
+                            <li class="nav-item dropdown">
+                                <a class="nav-link" href="index.html" data-bs-toggle="dropdown">Início</a>
+                            </li>
+                            <li class="nav-item dropdown"></li>
+                            </li>
+                            <li class="nav-item mega-menu dropdown">
+                                <a class="nav-link" href="" data-bs-toggle="dropdown">Sobre Nós</a>
+                                <div class="dropdown"><div>
+                                        <div class="container-fluid">
+                                            <div class="row">
+                                                <div class="col-12 col-sm-4 col-md-3">
+                                                    <div class="menu-about"></div>
+                                                </div>
+                                                <div class="col-12 col-sm-4 col-md-3">
+                                                    <ul class="mega-menu-item">
+                                                    </ul>
+                                                </div>
+                                                <div class="col-12 col-sm-4 col-md-3">
+                                                    <ul class="mega-menu-item"></ul>
+                                                </div>
+                                                <div class="col-12 col-sm-12 col-md-3">
+                                                    <ul class="mega-menu-item">
+                                                    </ul>
+                                                </div>
+                                            </div>
+                                        </div>
+                                    </div>
+                                </div>
+                            </li>
+                            <li class="nav-item dropdown">
+                                <a class="nav-link" href="#" data-bs-toggle="dropdown">Mídia</a>
+                            </li>
+                            <li class="nav-item dropdown">
+                                <a class="nav-link" href="#" data-bs-toggle="dropdown">Projeto Social</a>
+                                <ul class="fade-down"></ul>
+                            </li>
+                            <li class="nav-item dropdown">
+                                <a class="nav-link" href="#" data-bs-toggle="dropdown">Blog</a>
+                            </li>
+                            <li class="nav-item"><a class="nav-link" href="contact.html">Contato</a></li>
+                        </ul>
+                        <div class="nav-right">
+                            <div class="search-btn">
+                                <button type="button" class="nav-right-link search-box-outer"><i
+                                        class="far fa-search"></i></button>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+            </nav>
+        </div>
+    </header>
+    <!-- header area end -->
+
+
+    <!-- popup search -->
+    <div class="search-popup">
+        <button class="close-search"><span class="far fa-times"></span></button>
+        <form action="#">
+            <div class="form-group">
+                <input type="search" name="search-field" placeholder="Procure aqui..." required>
+                <button type="submit"><i class="far fa-search"></i></button>
+            </div>
+        </form>
+    </div>
+    <!-- popup search end -->
+
+
+
+    <main class="main">
+
+        <!-- hero slider -->
+        <div class="hero-section">
+            <div class="hero-slider owl-carousel owl-theme">
+                <div class="hero-single" style="background: url(assets/img/logo/fundo-teste.png)">
+                    <div class="container">
+                        <div class="row align-items-center">
+                            <div class="col-md-12 col-lg-8 mx-auto">
+                                <div class="hero-content text-center">
+                                    <h6 class="hero-sub-title" data-animation="fadeInDown" data-delay=".25s">
+                                        <i class="far fa-book-open-reader"></i>Bem-vindo ao EF7!
+                                    </h6>
+                                    <h1 class="hero-title" data-animation="fadeInRight" data-delay=".50s">
+                                        Nós <span> Acreditamos</span> em Você
+                                    </h1>
+                                    <p data-animation="fadeInLeft" data-delay=".75s">
+                                        A nossa missão é oferecer às pessoas um espaço completo e colaborativo para o desenvolvimento de aptidões físicas, esportivas, de saúde e bem-estar, visando verdadeiras transformações do ser humano em nome da qualidade de vida.
+                                    </p>
+                                    <div class="hero-btn justify-content-center" data-animation="fadeInUp" data-delay="1s">
+                                        <a href="about.html" class="theme-btn">Saiba Mais<i
+                                                class="fas fa-arrow-right-long"></i></a>
+                                        <a href="contact.html" class="theme-btn theme-btn2">Saber Mais<i
+                                                class="fas fa-arrow-right-long"></i></a>
+                                    </div>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+                <div class="hero-single" style="background: url(assets/img/logo/fundo-teste.png)">
+                    <div class="container">
+                        <div class="row align-items-center">
+                            <div class="col-md-12 col-lg-8 mx-auto">
+                                <div class="hero-content text-center">
+                                    <h6 class="hero-sub-title" data-animation="fadeInDown" data-delay=".25s">
+                                        <i class="far fa-book-open-reader"></i>Bem-Vindo ao EF7!
+                                    </h6>
+                                    <h1 class="hero-title" data-animation="fadeInRight" data-delay=".50s">
+                                        Nós<span> Acreditamos</span> em Você
+                                    </h1>
+                                    <p data-animation="fadeInLeft" data-delay=".75s">
+                                        A nossa missão é oferecer às pessoas um espaço completo e colaborativo para o desenvolvimento de aptidões físicas, esportivas, de saúde e bem-estar, visando verdadeiras transformações do ser humano em nome da qualidade de vida.
+                                    </p>
+                                    <div class="hero-btn justify-content-center" data-animation="fadeInUp" data-delay="1s">
+                                        <a href="about.html" class="theme-btn">Saiba Mais<i
+                                                class="fas fa-arrow-right-long"></i></a>
+                                        <a href="contact.html" class="theme-btn theme-btn2">Saber Mais<i
+                                                class="fas fa-arrow-right-long"></i></a>
+                                    </div>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+                <div class="hero-single" style="background: url(assets/img/logo/fundo-teste.png)">
+                    <div class="container">
+                        <div class="row align-items-center">
+                            <div class="col-md-12 col-lg-8 mx-auto">
+                                <div class="hero-content text-center">
+                                    <h6 class="hero-sub-title" data-animation="fadeInDown" data-delay=".25s">
+                                        <i class="far fa-book-open-reader"></i>Bem-Vindo ao EF7!
+                                    </h6>
+                                    <h1 class="hero-title" data-animation="fadeInRight" data-delay=".50s">
+                                        Nós<span> Acreditamos</span> em Você
+                                    </h1>
+                                    <p data-animation="fadeInLeft" data-delay=".75s">
+                                        A nossa missão é oferecer às pessoas um espaço completo e colaborativo para o desenvolvimento de aptidões físicas, esportivas, de saúde e bem-estar, visando verdadeiras transformações do ser humano em nome da qualidade de vida.
+                                    </p>
+                                    <div class="hero-btn justify-content-center" data-animation="fadeInUp" data-delay="1s">
+                                        <a href="Saiba-mais.html" class="theme-btn">Saiba Mais<i
+                                                class="fas fa-arrow-right-long"></i></a>
+                                        <a href="Saber-mais.html" class="theme-btn theme-btn2">Saber Mais<i
+                                                class="fas fa-arrow-right-long"></i></a>
+                                    </div>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+        <!-- hero slider end -->
+
+
+        <!-- about area -->
+        <div class="about-area py-120">
+            <div class="container">
+                <div class="row g-4 align-items-center">
+                    <div class="col-lg-6">
+                        <div class="about-left wow fadeInLeft" data-wow-delay=".25s">
+                            <div class="about-img">
+                                <div class="row g-4">
+                                    <div class="col-md-6">
+                                        <img class="img-1" src="assets/img/about/01.jpg" alt="">
+                                        <div class="about-experience mt-4">
+                                            <div class="about-experience-icon">
+                                                <img src="assets/img/icon/exchange-idea.svg" alt="">
+                                            </div>
+                                            <b class="text-start"> Desde 2018<br>Máxima Qualidade</b>
+                                        </div>
+                                    </div>
+                                    <div class="col-md-6">
+                                        <img class="img-2" src="assets/img/about/02.jpg" alt="">
+                                        <img class="img-3 mt-4" src="assets/img/about/03.jpg" alt="">
+                                    </div>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                    <div class="col-lg-6">
+                        <div class="about-right wow fadeInRight" data-wow-delay=".25s">
+                            <div class="site-heading mb-3">
+                                <span class="site-title-tagline"><i class="far fa-book-open-reader"></i>Sobre Nós</span>
+                                <h2 class="site-title">
+                                    Nosso Time <span>Insipira</span> Ainda mais Você.
+                                </h2>
+                            </div>
+                            <p class="about-text">
+                                O EF7 é motivado por projetos sociais dirigidos por uma assistente social muito dedicada à área, que inclusive é a mantenedora deste espaço. Por isso, criamos a Associação Cultural e Esportiva ACEEF7, uma associação civil sem fins lucrativos, regida por estatuto e normas legais pertinentes. Tem por finalidade apoiar e desenvolver ações para a defesa, elevação e manutenção da qualidade de vida do ser humano e do meio ambiente, promover a inclusão social, a paz, a cidadania, os direitos humanos e a democracia por meio das atividades de educação profissional e ambiental.
+                            </p>
+                            <div class="about-content">
+                                <div class="row">
+                                    <div class="col-md-7">
+                                        <div class="about-item">
+                                            <div class="about-item-icon">
+                                                <img src="assets/img/icon/open-book.svg" alt="">
+                                            </div>
+                                            <div class="about-item-content">
+                                                <h5>Serviços Educacionais</h5>
+                                                <p>Nosso time trabalha de maneira integra pelo propósito de cuidar da qualidade de vida de todos que frequentam o nosso espaço. Reunindo experiências e vivências profissionais.</p>
+                                            </div>
+                                        </div>
+                                        <div class="about-item">
+                                            <div class="about-item-icon">
+                                                <img src="assets/img/icon/global-education.svg" alt="">
+                                            </div>
+                                            <div class="about-item-content">
+                                                <h5>International Hubs</h5>
+                                                <p>Fazemos de tudo para oferecer um conjunto de serviços dirigidos ao desempenho físico, esportivo, de saúde e bem-estar dos alunos e de toda a família.</p>
+                                            </div>
+                                        </div>
+                                    </div>
+                                    <div class="col-md-5">
+                                        <div class="about-quote">
+                                            <p>Cada indivíduo é um ser único, cujo caminho contempla diferentes desafios e obstáculos; e cuja estrela assume o seu brilho quando existe muita paixão, esforço e colaboração.</p>
+                                            <i class="far fa-quote-right"></i>
+                                        </div>
+                                    </div>
+                                </div>
+                            </div>
+                            <div class="about-bottom">
+                                <a href="about.html" class="theme-btn">Descubra Mais<i
+                                        class="fas fa-arrow-right-long"></i></a>
+                                <div class="about-phone">
+                                    <div class="icon"><i class="fal fa-headset"></i></div>
+                                    <div class="number">
+                                        <span>Ligue Agora</span>
+                                        <h6><a href="tel:+21236547898"> (16) 3947-3534</a></h6>
+                                    </div>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+        <!-- about area end -->
+
+
+        <!-- course-area -->
+        <div class="course-area bg pt-80 pb-80">
+            <div class="container">
+                <div class="row">
+                    <div class="col-lg-6 mx-auto">
+                        <div class="site-heading text-center">
+                            <span class="site-title-tagline"><i class="far fa-book-open-reader"></i> Programa de Bolsas</span>
+                            <h2 class="site-title">Verifiquem o Programa de <span> Bolsas</span></h2>
+                            <p>Explicar como funciona o nosso programa de bolsas.</p>
+                        </div>
+                    </div>
+                </div>
+                <div class="row">
+                    <div class="col-md-6 col-lg-4">
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+        <!-- course-area -->
+
+
+        <!-- gallery-area -->
+        <div class="gallery-area py-120">
+            <div class="container">
+                <div class="row">
+                    <div class="col-lg-6 mx-auto">
+                        <div class="site-heading text-center">
+                            <span class="site-title-tagline"><i class="far fa-book-open-reader"></i> Galeria</span>
+                            <h2 class="site-title">Nossa <span>Galeira</span></h2>
+                            <p>It is a long established fact that a reader will be distracted by the readable content of
+                                a page when looking at its layout.</p>
+                        </div>
+                    </div>
+                </div>
+                <div class="row popup-gallery">
+                    <div class="col-md-4 wow fadeInUp" data-wow-delay=".25s">
+                        <div class="gallery-item">
+                            <div class="gallery-img">
+                                <img src="assets/img/gallery/01.jpg" alt="">
+                            </div>
+                            <div class="gallery-content">
+                                <a class="popup-img gallery-link" href="assets/img/gallery/01.jpg"><i
+                                        class="fal fa-plus"></i></a>
+                            </div>
+                        </div>
+                        <div class="gallery-item">
+                            <div class="gallery-img">
+                                <img src="assets/img/gallery/02.jpg" alt="">
+                            </div>
+                            <div class="gallery-content">
+                                <a class="popup-img gallery-link" href="assets/img/gallery/02.jpg"><i
+                                        class="fal fa-plus"></i></a>
+                            </div>
+                        </div>
+                    </div>
+                    <div class="col-md-4 wow fadeInUp" data-wow-delay=".50s">
+                        <div class="gallery-item">
+                            <div class="gallery-img">
+                                <img src="assets/img/gallery/03.jpg" alt="">
+                            </div>
+                            <div class="gallery-content">
+                                <a class="popup-img gallery-link" href="assets/img/gallery/03.jpg"><i
+                                        class="fal fa-plus"></i></a>
+                            </div>
+                        </div>
+                        <div class="gallery-item">
+                            <div class="gallery-img">
+                                <img src="assets/img/gallery/04.jpg" alt="">
+                            </div>
+                            <div class="gallery-content">
+                                <a class="popup-img gallery-link" href="assets/img/gallery/04.jpg"><i
+                                        class="fal fa-plus"></i></a>
+                            </div>
+                        </div>
+                    </div>
+                    <div class="col-md-4 wow fadeInUp" data-wow-delay=".75s">
+                        <div class="gallery-item">
+                            <div class="gallery-img">
+                                <img src="assets/img/gallery/05.jpg" alt="">
+                            </div>
+                            <div class="gallery-content">
+                                <a class="popup-img gallery-link" href="assets/img/gallery/05.jpg"><i
+                                        class="fal fa-plus"></i></a>
+                            </div>
+                        </div>
+                        <div class="gallery-item">
+                            <div class="gallery-img">
+                                <img src="assets/img/gallery/06.jpg" alt="">
+                            </div>
+                            <div class="gallery-content">
+                                <a class="popup-img gallery-link" href="assets/img/gallery/06.jpg"><i
+                                        class="fal fa-plus"></i></a>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+        <!-- gallery-area end -->
+
+
+        <!-- team-area -->
+        <div class="team-area2 pb-120">
+            <div class="container">
+                <div class="row">
+                    <div class="col-lg-6 mx-auto">
+                        <div class="site-heading text-center">
+                            <span class="site-title-tagline"><i class="far fa-book-open-reader"></i> Nossa Equipe</span>
+                            <h2 class="site-title">Conheça Nosso<span> Time</span></h2>
+                            <p>It is a long established fact that a reader will be distracted by the readable content of
+                                a page when looking at its layout.</p>
+                        </div>
+                    </div>
+                </div>
+                <div class="row">
+                    <div class="col-md-6 col-lg-3">
+                        <div class="team-item wow fadeInUp" data-wow-delay=".25s">
+                            <div class="team-img">
+                                <img src="assets/img/team/05.jpg" alt="thumb">
+                            </div>
+                            <div class="team-social"></div>
+                            <div class="team-content">
+                                <div class="team-bio">
+                                    <h5><a href="teacher-single.html">Angela T. Vigil</a></h5>
+                                    <span>Associate Professor</span>
+                                </div>
+                            </div>
+                            <span class="team-social-btn"><i class="far fa-share-nodes"></i></span>
+                        </div>
+                    </div>
+                    <div class="col-md-6 col-lg-3">
+                        <div class="team-item wow fadeInUp" data-wow-delay=".50s">
+                            <div class="team-img">
+                                <img src="assets/img/team/06.jpg" alt="thumb">
+                            </div>
+                            <div class="team-social"></div>
+                            <div class="team-content">
+                                <div class="team-bio">
+                                    <h5><a href="teacher-single.html">Frank A. Mitchell</a></h5>
+                                    <span>Associate Professor</span>
+                                </div>
+                            </div>
+                            <span class="team-social-btn"><i class="far fa-share-nodes"></i></span>
+                        </div>
+                    </div>
+                    <div class="col-md-6 col-lg-3">
+                        <div class="team-item wow fadeInUp" data-wow-delay=".75s">
+                            <div class="team-img">
+                                <img src="assets/img/team/07.jpg" alt="thumb">
+                            </div>
+                            <div class="team-social"></div>
+                            <div class="team-content">
+                                <div class="team-bio">
+                                    <h5><a href="teacher-single.html">Susan D. Lunsford</a></h5>
+                                    <span>CEO & Founder</span>
+                                </div>
+                            </div>
+                            <span class="team-social-btn"><i class="far fa-share-nodes"></i></span>
+                        </div>
+                    </div>
+                    <div class="col-md-6 col-lg-3">
+                        <div class="team-item wow fadeInUp" data-wow-delay="1s">
+                            <div class="team-img">
+                                <img src="assets/img/team/08.jpg" alt="thumb">
+                            </div>
+                            <div class="team-social"></div>
+                            <div class="team-content">
+                                <div class="team-bio">
+                                    <h5><a href="teacher-single.html">Dennis A. Pruitt</a></h5>
+                                    <span>Associate Professor</span>
+                                </div>
+                            </div>
+                            <span class="team-social-btn"><i class="far fa-share-nodes"></i></span>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+        <!-- team-area end -->
+
+
+        <!-- choose-area -->
+        <div class="choose-area pt-80 pb-80">
+            <div class="container">
+                <div class="row align-items-center">
+                    <div class="col-lg-6">
+                        <div class="choose-content wow fadeInUp" data-wow-delay=".25s">
+                            <div class="choose-content-info">
+                                <div class="site-heading mb-0">
+                                    <span class="site-title-tagline"><i class="far fa-book-open-reader"></i> Por que Nos Escolher ?</span>
+                                    <h2 class="site-title text-white mb-10">Somos especialistas e <span> fazemos o melhor</span> para alcançar o seu objetivo!</h2>
+                                    <p class="text-white">
+                                        It is a long established fact that a reader will be distracted by the readable
+                                        content of a page when many desktop and web page editors looking at its
+                                        layout.
+                                    </p>
+                                </div>
+                                <div class="choose-content-wrap">
+                                    <div class="row g-4">
+                                        <div class="col-md-6">
+                                            <div class="choose-item">
+                                                <div class="choose-item-icon">
+                                                    <img src="assets/img/icon/teacher-2.svg" alt="">
+                                                </div>
+                                                <div class="choose-item-info">
+                                                    <h4>Equipe Especialista</h4>
+                                                    <p>There are many variation of the suffered.</p>
+                                                </div>
+                                            </div>
+                                        </div>
+                                        <div class="col-md-6">
+                                            <div class="choose-item">
+                                                <div class="choose-item-icon">
+                                                    <img src="assets/img/icon/course-material.svg" alt="">
+                                                </div>
+                                                <div class="choose-item-info">
+                                                    <h4>Equipamentos Excelentes</h4>
+                                                    <p>There are many variation of the suffered.</p>
+                                                </div>
+                                            </div>
+                                        </div>
+                                        <div class="col-md-6">
+                                            <div class="choose-item">
+                                                <div class="choose-item-icon">
+                                                    <img src="assets/img/icon/online-course.svg" alt="">
+                                                </div>
+                                                <div class="choose-item-info">
+                                                    <h4>Segurança e Qualidade</h4>
+                                                    <p>There are many variation of the suffered.</p>
+                                                </div>
+                                            </div>
+                                        </div>
+                                        <div class="col-md-6">
+                                            <div class="choose-item">
+                                                <div class="choose-item-icon">
+                                                    <img src="assets/img/icon/money.svg" alt="">
+                                                </div>
+                                                <div class="choose-item-info">
+                                                    <h4>Preço Acessível</h4>
+                                                    <p>There are many variation of the suffered.</p>
+                                                </div>
+                                            </div>
+                                        </div>
+                                    </div>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                    <div class="col-lg-6">
+                        <div class="choose-img wow fadeInRight" data-wow-delay=".25s">
+                            <img src="assets/img/choose/01.jpg" alt="">
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+        <!-- choose-area end -->
+
+
+        <!-- event area -->
+        <div class="event-area py-120">
+            <div class="container">
+                <div class="row">
+                    <div class="col-lg-6 mx-auto">
+                        <div class="site-heading text-center">
+                            <span class="site-title-tagline"><i class="far fa-book-open-reader"></i> Eventos</span>
+                            <h2 class="site-title">Nossos Próximos <span> Eventos</span></h2>
+                            <p>It is a long established fact that a reader will be distracted by the readable content of
+                                a page when looking at its layout.</p>
+                        </div>
+                    </div>
+                </div>
+                <div class="row">
+                    <div class="col-lg-4">
+                        <div class="event-item wow fadeInUp" data-wow-delay=".25s">
+                            <div class="event-location">
+                                <span><i class="far fa-map-marker-alt"></i>Local</span>
+                            </div>
+                            <div class="event-img">
+                                <img src="assets/img/event/01.jpg" alt="">
+                            </div>
+                            <div class="event-info">
+                                <div class="event-meta">
+                                    <span class="event-date"><i class="far fa-calendar-alt"></i> Data</span>
+                                    <span class="event-time"><i class="far fa-clock"></i> Horas</span>
+                                </div>
+                                <h4 class="event-title"><a href="event-single.html">Sobre o Evento</a></h4>
+                                <p>There are many variations of passages the majority have some injected humour.</p>
+                                <div class="event-btn">
+                                    <a href="event-single.html" class="theme-btn">Participe do Evento<i class="fas fa-arrow-right-long"></i></a>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                    <div class="col-lg-4">
+                        <div class="event-item wow fadeInDown" data-wow-delay=".25s">
+                            <div class="event-location">
+                                <span><i class="far fa-map-marker-alt"></i>Local</span>
+                            </div>
+                            <div class="event-img">
+                                <img src="assets/img/event/02.jpg" alt="">
+                            </div>
+                            <div class="event-info">
+                                <div class="event-meta">
+                                    <span class="event-date"><i class="far fa-calendar-alt"></i>Data</span>
+                                    <span class="event-time"><i class="far fa-clock"></i>Horas</span>
+                                </div>
+                                <h4 class="event-title"><a href="event-single.html">High School Program 2024</a></h4>
+                                <p>There are many variations of passages the majority have some injected humour.</p>
+                                <div class="event-btn">
+                                    <a href="event-single.html" class="theme-btn">Participe do Evento<i class="fas fa-arrow-right-long"></i></a>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                    <div class="col-lg-4">
+                        <div class="event-item wow fadeInUp" data-wow-delay=".25s">
+                            <div class="event-location">
+                                <span><i class="far fa-map-marker-alt"></i>Local</span>
+                            </div>
+                            <div class="event-img">
+                                <img src="assets/img/event/03.jpg" alt="">
+                            </div>
+                            <div class="event-info">
+                                <div class="event-meta">
+                                    <span class="event-date"><i class="far fa-calendar-alt"></i>Data</span>
+                                    <span class="event-time"><i class="far fa-clock"></i>Horas</span>
+                                </div>
+                                <h4 class="event-title"><a href="event-single.html">Sobre o Evento</a></h4>
+                                <p>There are many variations of passages the majority have some injected humour.</p>
+                                <div class="event-btn">
+                                    <a href="event-single.html" class="theme-btn">Participe do Evento<i class="fas fa-arrow-right-long"></i></a>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+        <!-- event area end -->
+
+
+
+        <!-- department area -->
+        <div class="department-area py-120">
+            <div class="container">
+                <div class="row">
+                    <div class="col-lg-6 mx-auto">
+                        <div class="site-heading text-center">
+                            <span class="site-title-tagline"><i class="far fa-book-open-reader"></i> Complexo Esportivo</span>
+                            <h2 class="site-title">Explore a nossa <span>Estrutura</span></h2>
+                            <p>It is a long established fact that a reader will be distracted by the readable content of
+                                a page when looking at its layout.</p>
+                        </div>
+                    </div>
+                </div>
+                <div class="row">
+                    <div class="col-lg-3">
+                        <div class="department-item wow fadeInUp" data-wow-delay=".25s">
+                            <div class="department-icon">
+                                <img src="assets/img/icon/monitor.svg" alt="">
+                            </div>
+                            <div class="department-info">
+                                <h4 class="department-title"><a href="academic-single.html">Quadras</a></h4>
+                                <p>There are many variations of passages the majority have some injected humour.</p>
+                                <div class="department-btn">
+                                    <a href="academic-single.html">Veja Mais<i class="fas fa-arrow-right-long"></i></a>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                    <div class="col-lg-3">
+                        <div class="department-item wow fadeInUp" data-wow-delay=".50s">
+                            <div class="department-icon">
+                                <img src="assets/img/icon/law.svg" alt="">
+                            </div>
+                            <div class="department-info">
+                                <h4 class="department-title"><a href="academic-single.html">Vestiários</a></h4>
+                                <p>There are many variations of passages the majority have some injected humour.</p>
+                                <div class="department-btn">
+                                    <a href="academic-single.html">Veja Mais<i class="fas fa-arrow-right-long"></i></a>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                    <div class="col-lg-3">
+                        <div class="department-item wow fadeInUp" data-wow-delay=".75s">
+                            <div class="department-icon">
+                                <img src="assets/img/icon/data.svg" alt="">
+                            </div>
+                            <div class="department-info">
+                                <h4 class="department-title"><a href="academic-single.html">Espaço Gourmet</a></h4>
+                                <p>There are many variations of passages the majority have some injected humour.</p>
+                                <div class="department-btn">
+                                    <a href="academic-single.html">Veja Mais<i class="fas fa-arrow-right-long"></i></a>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                    <div class="col-lg-3">
+                        <div class="department-item wow fadeInUp" data-wow-delay="1s">
+                            <div class="department-icon">
+                                <img src="assets/img/icon/health.svg" alt="">
+                            </div>
+                            <div class="department-info">
+                                <h4 class="department-title"><a href="academic-single.html">Centro de Aptidão Física e Saúde (CAFS)</a></h4>
+                                <p>There are many variations of passages the majority have some injected humour.</p>
+                                <div class="department-btn">
+                                    <a href="academic-single.html">Veja Mais<i class="fas fa-arrow-right-long"></i></a>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                    <div class="col-lg-3">
+                        <div class="department-item wow fadeInUp" data-wow-delay=".25s">
+                            <div class="department-icon">
+                                <img src="assets/img/icon/art.svg" alt="">
+                            </div>
+                            <div class="department-info">
+                                <h4 class="department-title"><a href="academic-single.html">Área de Lazer</a></h4>
+                                <p>There are many variations of passages the majority have some injected humour.</p>
+                                <div class="department-btn">
+                                    <a href="academic-single.html">Veja Mais<i class="fas fa-arrow-right-long"></i></a>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                    <div class="col-lg-3">
+                        <div class="department-item wow fadeInUp" data-wow-delay=".50s">
+                            <div class="department-icon">
+                                <img src="assets/img/icon/information.svg" alt="">
+                            </div>
+                            <div class="department-info">
+                                <h4 class="department-title"><a href="academic-single.html">Sala de Palestra</a></h4>
+                                <p>There are many variations of passages the majority have some injected humour.</p>
+                                <div class="department-btn">
+                                    <a href="academic-single.html">Veja Mais<i class="fas fa-arrow-right-long"></i></a>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                    <div class="col-lg-3">
+                        <div class="department-item wow fadeInUp" data-wow-delay=".75s">
+                            <div class="department-icon">
+                                <img src="assets/img/icon/acting.svg" alt="">
+                            </div>
+                            <div class="department-info">
+                                <h4 class="department-title"><a href="academic-single.html">Nutricionista</a></h4>
+                                <p>There are many variations of passages the majority have some injected humour.</p>
+                                <div class="department-btn">
+                                    <a href="academic-single.html">Veja Mais<i class="fas fa-arrow-right-long"></i></a>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                    <div class="col-lg-3">
+                        <div class="department-item wow fadeInUp" data-wow-delay="1s">
+                            <div class="department-icon">
+                                <img src="assets/img/icon/human.svg" alt="">
+                            </div>
+                            <div class="department-info">
+                                <h4 class="department-title"><a href="academic-single.html">Espaço de Propagandas</a></h4>
+                                <p>There are many variations of passages the majority have some injected humour.</p>
+                                <div class="department-btn">
+                                    <a href="academic-single.html">Veja Mais<i class="fas fa-arrow-right-long"></i></a>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+        <!-- department area end -->
+
+
+        <!-- testimonial area -->
+        <div class="testimonial-area ts-bg pt-80 pb-80">
+            <div class="container">
+                <div class="row">
+                    <div class="col-lg-6 mx-auto">
+                        <div class="site-heading text-center">
+                            <span class="site-title-tagline"><i class="far fa-book-open-reader"></i> Comentários</span>
+                            <h2 class="site-title text-white">Os <span> Comentários</span> Dizem:</h2>
+                            <p class="text-white">It is a long established fact that a reader will be distracted by the
+                                readable content of
+                                a page when looking at its layout.</p>
+                        </div>
+                    </div>
+                </div>
+                <div class="testimonial-slider owl-carousel owl-theme">
+                    <div class="testimonial-item">
+                        <div class="testimonial-rate">
+                            <i class="fas fa-star"></i>
+                            <i class="fas fa-star"></i>
+                            <i class="fas fa-star"></i>
+                            <i class="fas fa-star"></i>
+                            <i class="fas fa-star"></i>
+                        </div>
+                        <div class="testimonial-quote">
+                            <p>
+                                There are many variations of tend to repeat chunks some all form necessary injected for the going are humour words.
+                            </p>
+                        </div>
+                        <div class="testimonial-content">
+                            <div class="testimonial-author-img">
+                                <img src="assets/img/testimonial/01.jpg" alt="">
+                            </div>
+                            <div></div>
+                        </div>
+                        <span class="testimonial-quote-icon"><i class="far fa-quote-right"></i></span>
+                    </div>
+                    <div class="testimonial-item">
+                        <div class="testimonial-rate">
+                            <i class="fas fa-star"></i>
+                            <i class="fas fa-star"></i>
+                            <i class="fas fa-star"></i>
+                            <i class="fas fa-star"></i>
+                            <i class="fas fa-star"></i>
+                        </div>
+                        <div class="testimonial-quote">
+                            <p>
+                                There are many variations of tend to repeat chunks some all form necessary injected for the going are humour words.
+                            </p>
+                        </div>
+                        <div class="testimonial-content">
+                            <div class="testimonial-author-img">
+                                <img src="assets/img/testimonial/02.jpg" alt="">
+                            </div>
+                            <div></div>
+                        </div>
+                        <span class="testimonial-quote-icon"><i class="far fa-quote-right"></i></span>
+                    </div>
+                    <div class="testimonial-item">
+                        <div class="testimonial-rate">
+                            <i class="fas fa-star"></i>
+                            <i class="fas fa-star"></i>
+                            <i class="fas fa-star"></i>
+                            <i class="fas fa-star"></i>
+                            <i class="fas fa-star"></i>
+                        </div>
+                        <div class="testimonial-quote">
+                            <p>
+                                There are many variations of tend to repeat chunks some all form necessary injected for the going are humour words.
+                            </p>
+                        </div>
+                        <div class="testimonial-content">
+                            <div class="testimonial-author-img">
+                                <img src="assets/img/testimonial/03.jpg" alt="">
+                            </div>
+                            <div></div>
+                        </div>
+                        <span class="testimonial-quote-icon"><i class="far fa-quote-right"></i></span>
+                    </div>
+                    <div class="testimonial-item">
+                        <div class="testimonial-rate">
+                            <i class="fas fa-star"></i>
+                            <i class="fas fa-star"></i>
+                            <i class="fas fa-star"></i>
+                            <i class="fas fa-star"></i>
+                            <i class="fas fa-star"></i>
+                        </div>
+                        <div class="testimonial-quote">
+                            <p>
+                                There are many variations of tend to repeat chunks some all form necessary injected for the going are humour words.
+                            </p>
+                        </div>
+                        <div class="testimonial-content">
+                            <div class="testimonial-author-img">
+                                <img src="assets/img/testimonial/04.jpg" alt="">
+                            </div>
+                            <div></div>
+                        </div>
+                        <span class="testimonial-quote-icon"><i class="far fa-quote-right"></i></span>
+                    </div>
+                    <div class="testimonial-item">
+                        <div class="testimonial-rate">
+                            <i class="fas fa-star"></i>
+                            <i class="fas fa-star"></i>
+                            <i class="fas fa-star"></i>
+                            <i class="fas fa-star"></i>
+                            <i class="fas fa-star"></i>
+                        </div>
+                        <div class="testimonial-quote">
+                            <p>
+                                There are many variations of tend to repeat chunks some all form necessary injected for the going are humour words.
+                            </p>
+                        </div>
+                        <div class="testimonial-content">
+                            <div class="testimonial-author-img">
+                                <img src="assets/img/testimonial/05.jpg" alt="">
+                            </div>
+                            <div></div>
+                        </div>
+                        <span class="testimonial-quote-icon"><i class="far fa-quote-right"></i></span>
+                    </div>
+                </div>
+            </div>
+        </div>
+        <!-- testimonial area end -->
+
+
+        <!-- blog area -->
+        <div class="blog-area py-120">
+            <div class="container">
+                <div class="row">
+                    <div class="col-lg-6 mx-auto">
+                        <div class="site-heading text-center">
+                            <span class="site-title-tagline"><i class="far fa-book-open-reader"></i> Nosso Blog</span>
+                            <h2 class="site-title">Últimas Notícias & <span>Blog</span></h2>
+                            <p>It is a long established fact that a reader will be distracted by the readable content of
+                                a page when looking at its layout.</p>
+                        </div>
+                    </div>
+                </div>
+                <div class="row">
+                    <div class="col-md-6 col-lg-4">
+                        <div class="blog-item wow fadeInUp" data-wow-delay=".25s">
+                            <div class="blog-date"><i class="fal fa-calendar-alt"></i> Data</div>
+                            <div class="blog-item-img">
+                                <img src="assets/img/blog/01.jpg" alt="Thumb">
+                            </div>
+                            <div class="blog-item-info">
+                                <div class="blog-item-meta">
+                                    <ul>
+                                        <li><a href="#"><i class="far fa-user-circle"></i> Quem publicou</a></li>
+                                        <li><a href="#"><i class="far fa-comments"></i> Comentários</a></li>
+                                    </ul>
+                                </div>
+                                <h4 class="blog-title">
+                                    <a href="blog-single.html">There are many variations passage have suffered available.</a>
+                                </h4>
+                                <a class="theme-btn" href="blog-single.html">Leia Mais<i class="fas fa-arrow-right-long"></i></a>
+                            </div>
+                        </div>
+                    </div>
+                    <div class="col-md-6 col-lg-4">
+                        <div class="blog-item wow fadeInUp" data-wow-delay=".50s">
+                            <div class="blog-date"><i class="fal fa-calendar-alt"></i> Data</div>
+                            <div class="blog-item-img">
+                                <img src="assets/img/blog/02.jpg" alt="Thumb">
+                            </div>
+                            <div class="blog-item-info">
+                                <div class="blog-item-meta">
+                                    <ul>
+                                        <li><a href="#"><i class="far fa-user-circle"></i> Quem publicou</a></li>
+                                        <li><a href="#"><i class="far fa-comments"></i> Comentários</a></li>
+                                    </ul>
+                                </div>
+                                <h4 class="blog-title">
+                                    <a href="blog-single.html">There are many variations passage have suffered available.</a>
+                                </h4>
+                                <a class="theme-btn" href="blog-single.html">Leia Mais<i class="fas fa-arrow-right-long"></i></a>
+                            </div>
+                        </div>
+                    </div>
+                    <div class="col-md-6 col-lg-4">
+                        <div class="blog-item wow fadeInUp" data-wow-delay=".75s">
+                            <div class="blog-date"><i class="fal fa-calendar-alt"></i> Data</div>
+                            <div class="blog-item-img">
+                                <img src="assets/img/blog/03.jpg" alt="Thumb">
+                            </div>
+                            <div class="blog-item-info">
+                                <div class="blog-item-meta">
+                                    <ul>
+                                        <li><a href="#"><i class="far fa-user-circle"></i> Quem publicou</a></li>
+                                        <li><a href="#"><i class="far fa-comments"></i> Comentários</a></li>
+                                    </ul>
+                                </div>
+                                <h4 class="blog-title">
+                                    <a href="blog-single.html">There are many variations passage have suffered available.</a>
+                                </h4>
+                                <a class="theme-btn" href="blog-single.html">Leia Mais<i class="fas fa-arrow-right-long"></i></a>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+        <!-- blog area end -->
+
+    </main>
+
+
+
+    <!-- footer area -->
+    <footer class="footer-area">
+        <div class="footer-shape">
+            <img src="assets/img/logo/fundo-teste.png" alt="">
+        </div>
+        <div class="footer-widget">
+            <div class="container">
+                <div class="row footer-widget-wrapper pt-100 pb-70">
+                    <div class="col-md-6 col-lg-4">
+                        <div class="footer-widget-box about-us">
+                            <a href="#" class="footer-logo">
+                                <img src="assets/img/logo/ef7-logo.png" alt="">
+                            </a>
+                            <p class="mb-3">
+                                Temos muitas variações de passagens disponíveis, mas a maioria sofreu alterações
+                                de alguma forma com humor injetado palavras críveis.
+                            </p>
+                            <ul class="footer-contact">
+                                <li><a href="tel:+21236547898"><i class="far fa-phone"></i>(16) 3947-3534</a></li>
+                                <li><i class="far fa-map-marker-alt"></i>R. Edemilson André Moré, 270 - Sertãozinho - SP</li>
+                                <li><a href="mailto:ef7@example.com"><i
+                                            class="far fa-envelope"></i>ef7@ef7.com.br</a></li>
+                            </ul>
+                        </div>
+                    </div>
+                    <div class="col-md-6 col-lg-2">
+                        <div class="footer-widget-box list">
+                            <h4 class="footer-widget-title">Links Rápidos</h4>
+                            <ul class="footer-list">
+                                <li><a href="#"><i class="fas fa-caret-right"></i> Sobre Nós</a></li>
+                                <li><a href="#"><i class="fas fa-caret-right"></i> Perguntas Frequentes</a></li>
+                                <li><a href="#"><i class="fas fa-caret-right"></i> Depoimentos</a></li>
+                                <li><a href="#"><i class="fas fa-caret-right"></i> Termos de Serviço</a></li>
+                                <li><a href="#"><i class="fas fa-caret-right"></i> Política de Privacidade</a></li>
+                                <li><a href="#"><i class="fas fa-caret-right"></i> Blog</a></li>
+                            </ul>
+                        </div>
+                    </div>
+                    <div class="col-md-6 col-lg-3">
+                        <div class="footer-widget-box list">
+                            <h4 class="footer-widget-title">Nosso Espaço</h4>
+                            <ul class="footer-list">
+                                <li><a href="#"><i class="fas fa-caret-right"></i> Segurança e Qualidade</a></li>
+                                <li><a href="#"><i class="fas fa-caret-right"></i> Atividades Estudantis</a></li>
+                                <li><a href="#"><i class="fas fa-caret-right"></i> Departamento Acadêmico</a></li>
+                                <li><a href="#"><i class="fas fa-caret-right"></i> Planejamento & Administração</a></li>
+                                <li><a href="#"><i class="fas fa-caret-right"></i> Escritório do Reitor</a></li>
+                                <li><a href="#"><i class="fas fa-caret-right"></i> Serviços de Instalações</a></li>
+                            </ul>
+                        </div>
+                    </div>
+                    <div class="col-md-6 col-lg-3">
+                                    </form>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+        <div class="copyright">
+            <div class="container">
+                <div class="copyright-wrapper">
+                    <div class="row">
+                        <div class="col-md-6 align-self-center">
+                            <p class="copyright-text">
+                                &copy; Copyright <span id="date"></span> <a href="#"> EF7 </a> All Rights Reserved.
+                            </p>
+                        </div>
+                        <div class="col-md-6 align-self-center">
+                            <ul class="footer-social">
+                                <li><a href="https://www.facebook.com/complexoesportivoef7" target="_blank"><i class="fab fa-facebook-f"></i></a></li>
+                                <li><a href="https://www.instagram.com/complexoesportivo_ef7/" target="_blank"><i class="fab fa-instagram"></i></a></li>
+                                <li><a href="https://wa.me/5516991737182" target="_blank"><i class="fab fa-whatsapp"></i></a></li>
+                            </ul>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </footer>
+    <!-- footer area end -->
+
+
+    <!-- scroll-top -->
+    <a href="#" id="scroll-top"><i class="far fa-arrow-up-from-arc"></i></a>
+    <!-- scroll-top end -->
+
+
+    <!-- js -->
+    <script src="assets/js/jquery-3.7.1.min.js"></script>
+    <script src="assets/js/modernizr.min.js"></script>
+    <script src="assets/js/bootstrap.bundle.min.js"></script>
+    <script src="assets/js/imagesloaded.pkgd.min.js"></script>
+    <script src="assets/js/jquery.magnific-popup.min.js"></script>
+    <script src="assets/js/isotope.pkgd.min.js"></script>
+    <script src="assets/js/jquery.appear.min.js"></script>
+    <script src="assets/js/jquery.easing.min.js"></script>
+    <script src="assets/js/owl.carousel.min.js"></script>
+    <script src="assets/js/counter-up.js"></script>
+    <script src="assets/js/wow.min.js"></script>
+    <script src="assets/js/main.js"></script>
+
+</body>
+
+</html>
