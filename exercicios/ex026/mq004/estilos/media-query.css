@@ -56,7 +56,7 @@ Grandes telas: acima de 1200px
 
 }
 
-@media screen and (minn-width: 1200px) { /* GRANDES TELAS */
+@media screen and (min-width: 1200px) { /* GRANDES TELAS */
   body {
     background-image: url(../imagens/back-tv.jpg);
   }
